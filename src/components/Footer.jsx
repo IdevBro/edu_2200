@@ -9,7 +9,7 @@ import In from "../assets/In.png"
 
 function Footer() {
     return (
-        <footer className='w-[100%] h-[472px] bg-white mt-[140px]'>
+        <footer className='w-[1920px] h-[472px] bg-white mt-[140px]'>
             <div className='flex w-[100%]'>
                 <div className='flex-column ml-[162px] w-[392px]'>
                     <img className='mt-[100px] mb-[40px]' src={Logo} alt="" />

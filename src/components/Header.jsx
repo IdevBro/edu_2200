@@ -20,7 +20,7 @@ function Header() {
                     <ul className="hidden md:flex items-center gap-6 ">
                         <li className="cursor-pointer text-gray-700 font-normal hover:text-blue-700 font-semibold"><Link to="/">Home</Link></li>
                         <li className="cursor-pointer text-gray-700 font-normal hover:text-blue-700 font-semibold"><Link to="/courses">Courses</Link></li>
-                        <li className="cursor-pointer text-gray-700 font-normal hover:text-blue-700 font-semibold">About Us</li>
+                        <li className="cursor-pointer text-gray-700 font-normal hover:text-blue-700 font-semibold"><Link to="/about">About us</Link></li>
                         <li className="cursor-pointer text-gray-700 font-normal hover:text-blue-700 font-semibold">Pricing</li>
                         <li className="cursor-pointer text-gray-700 font-normal hover:text-blue-700 font-semibold">Contact</li>
                     </ul>
